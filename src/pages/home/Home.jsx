@@ -147,7 +147,7 @@ function Home() {
           </div>
         </div>
       </div>
-      <div className="features dark">
+      <div className="features light">
         <div className="container">
           <div className="item">
             <h1>
